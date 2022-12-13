@@ -1,3 +1,4 @@
-# Primeiro-Projeto-em-Html
-Projeto básico Html
-Mais um projeto pela plataforma da Dio, buscando aprimorar o portfólio!
+# Website em Html
+Olá, este é meu primeiro website
+
+Projeto básico Html, pela Dio.
